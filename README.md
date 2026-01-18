@@ -111,6 +111,8 @@ Depending on your own preference and requirements, this can of course be changed
 
 * Workflow file: [.github/workflows/windows.yml](https://github.com/gluonhq/hello-gluon-ci/blob/master/.github/workflows/windows.yml)
 * Detailed documentation: [Gluon documentation for Windows](https://docs.gluonhq.com/#platforms_windows) for more detailed information.
+* 
+To see if it works
 
 ### Embedded - AArch64 Linux
 
